@@ -14,7 +14,7 @@ public class MyLibraryTest extends TestCase {
 		
 		assertTrue(ml.books instanceof ArrayList);
 		assertTrue(ml.people instanceof ArrayList);
-		
+
 	}
 
 }
